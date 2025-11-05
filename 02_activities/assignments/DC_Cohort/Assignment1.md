@@ -205,5 +205,45 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
-```
+My first statistics professor used to commonly tell us to say hi to our data each time we opened a dataset. 
+I used to think it was a silly practice but I did it anyway. Alone in my office with a csv, querying an index to 
+create histograms, and muttering aloud 'hi' to my apparently unimpressed computer screen. 
+After years of more experience working on national surveys about economic  inequality, financial strain, 
+political and economic alienation, and with policy centers designed not just to act with people but upon people, 
+I no longer find the practice absurd. Embedded in all datasets are decisions about what to include and what not to include, 
+which questions to prioritize and which questions to forget, decisions on what to recode or not recode, that inevitably 
+reflect not only the intentions and limitations of the researcher but also the issues that happen to be culturally salient within their milieu. 
+
+Qadri's examination of Pakistan's NADRA system reveals how these embedded assumptions scale from individual datasets 
+to systems that govern millions of lives. When Riz couldn't renew his ID because the database flagged "Error: Unmarried 
+Mother," the issue wasn't a technical glitch. The system architects made deliberate choices about what constitutes a 
+"legitimate" family: children born only within marriage, households headed by male citizens, and every individual 
+traceable through blood or state-approved marriage. These weren't inevitable technical requirements but reflections of 
+specific cultural values determining the encoding of the dataset.
+
+What makes these embedded values particularly insidious is that databases present themselves as neutral, 
+objective arbiters of truth. As Qadri notes, "seemingly innocuous 'technical' rules of the database become political by 
+restricting whose citizenship, marriage, family, or identity will be recognized by the state." 
+
+The databases I work with wield a much lamer power, but a power nonetheless. Survey schemas that can't capture multiple 
+jobs make precarious workers disappear from labor statistics. Income brackets that don't account for regional 
+cost-of-living variations misrepresent economic strain. Each "unexamined technical choice" propagates existing 
+inequalities and makes certain forms of marginalization unobservable and uncomparable, therefore marking them open
+to subjective interpretation and biased misinformation. That final point is key for me. No data is as pernicious in
+marginalizing a population as is bad data. Arbitrary power thrives when it is only our words against each other.
+
+When policy centers use these datasets to design interventions, they act upon people with incomplete, value-laden data 
+that encodes whose lives matter enough to measure accurately. But this recognition does open a pathway for change.
+MIT software engineer Jehangir Amjad suggests that better database design requires acknowledging that change will happen 
+and building flexible systems that don't rely on rigid schemas. While anthropologist Zehra Hashmi notes that the problem 
+isn't just technical, this means the solutions can be political too. If these were deliberate choices, 
+they can be deliberately changed. And I think that begins with saying 'hi' to our data.
+
+My statistics professor's ritual of saying hi to the data now feels like I making a larger gesture of respect. 
+That simple greeting acknowledges that behind every row is a person, and behind every schema are choices about whose 
+existence gets validated. But it also reminds me why this work matters: databases exist to make the invisible (unsampled populations,
+categories of work ignored by other surveys, uncoventional outcomes linked to experiences of financial strain) visible and
+comparable amongst a universe of other virtually preserved observations. Every time I open a dataset, saying hi isn't 
+just acknowledging the people represented within it. It is me reminding myself to question what's missing, to advocate for 
+more inclusive schemas, and to do the hard work of building systems that honor rather than erase human complexity.
+ ```
